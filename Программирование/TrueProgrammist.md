@@ -14,7 +14,7 @@
 
 <h2>Статьи</h2>
 
-**[Что нужно знать каждому программисту по версии Google](https://telegra.ph/CHto-nuzhno-znat-kazhdomu-programmistu-po-versii-Google-01-05)
+**[Что нужно знать каждому программисту по версии Google]**(https://telegra.ph/CHto-nuzhno-znat-kazhdomu-programmistu-po-versii-Google-01-05)
 
 [Python, под пиратским флагом](https://telegra.ph/Python-pod-piratskim-flagom-01-07)
 
