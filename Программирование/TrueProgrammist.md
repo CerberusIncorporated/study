@@ -1,6 +1,8 @@
 
 <h2>Курсы</h2>
 
+[Научим программировать за 3 месяца на Python[(https://cloud.mail.ru/public/FpWV/DCvmgwQAG)
+
 [Курс Python](https://cloud.mail.ru/public/AhR9/6yxj8XRJA)
 
 <h2>Книги</h2>
@@ -11,12 +13,32 @@
 
 [Изучаем Python Пол Бэрри 2017](https://github.com/CerberusIncorporated/study/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/izuchaem-programmirovanie-na-python%40bzd_channel.pdf)
 
+<h2>Сайты</h2>
+
+[Habr](https://habr.com/ru/)
+
 
 <h2>Статьи</h2>
 
 [**Что нужно знать каждому программисту по версии Google**](https://telegra.ph/CHto-nuzhno-znat-kazhdomu-programmistu-po-versii-Google-01-05)
 
+[7 принципов, которые нужно знать начинающему программисту](https://telegra.ph/7-principov-kotorye-nuzhno-znat-nachinayushchemu-programmistu-12-22)
+
+[Защита сайта от взлома: предотвращение SQL-инъекций](https://telegra.ph/Zashchita-sajta-ot-vzloma-predotvrashchenie-SQL-inekcij-03-08)
+
+[Пишем миниатюрный HTTP-flooder на Python 3](https://telegra.ph/Pishem-miniatyurnyj-HTTP-flooder-na-Python-3-12-28-2)
+
+[Python для хакера. Часть 2. Backdoor](https://telegra.ph/Python-dlya-hakera-CHast-2-Backdoor-02-10)
+
 [Python, под пиратским флагом](https://telegra.ph/Python-pod-piratskim-flagom-01-07)
+
+[Эксплоит на Python, SQLi Blind](https://telegra.ph/Netipichnye-sluchai-ehkspluatacii-uyazvimostej-baz-dannyh-02-03)
+
+[Малварь на HTML и получения сессии через Meterpreter Listener](https://telegra.ph/Malvar-na-HTML-i-polucheniya-sessii-cherez-Meterpreter-Listener-01-30)
+
+[Малварь на HTML или HTA для хакера](https://telegra.ph/Malvar-na-HTML-ili-HTA-dlya-hakera-04-08)
+
+[Оставляем бэкдор для страховки от "нехороших" заказчиков](https://telegra.ph/Ostavlyaem-behkdor-dlya-strahovki-ot-nehoroshih-zakazchikov-02-23)
 
 [Какие алгоритмы нужно знать](https://telegra.ph/Kakie-algoritmy-nuzhno-znat-chtoby-stat-horoshim-programmistom-01-06)
 
