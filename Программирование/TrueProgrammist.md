@@ -195,7 +195,7 @@
 
 [Habr](https://habr.com/ru/)
 
-[Coursera[(coursera.org)
+[Coursera](coursera.org)
 
 [Stepik](stepik.org)
 
