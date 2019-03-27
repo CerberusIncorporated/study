@@ -16,6 +16,9 @@
 
 ![cimg](https://habrastorage.org/files/e0d/c05/81a/e0dc0581a9e244cb8d12e2f9958c219e.png)
 
+[Математика и Python для анализа данных](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/1-mathematics-and-python)
+
+[Машинное обучение](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie#%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0-ml-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0)
 
 [Специализация Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis)
 
@@ -27,6 +30,8 @@
 
 [Интенсив по производным](https://yadi.sk/i/f-UL1-ZyI4Nh3w)
 
+[Игры на Android на Unity](https://yadi.sk/d/dsyPrw5N3WmaNE)
+
 [Интенсив по интегралам](https://yadi.sk/i/siN_Er6tMB0CLw)
 
 [Интенсив по пределам](https://yadi.sk/i/-vh3dhzrq_p3fA)
@@ -34,6 +39,8 @@
 [Интенсив по диффурам](https://yadi.sk/i/lE7YEdzbkOjpt)
 
 [Школьные формулы](https://yadi.sk/i/M6UFokxfrtjq4Q)
+
+[Алгоритмы и структуры данных](https://vk.com/wall-16108331_137146?hash=ef43540119c95fcecb)
 
 [Таблица интегралов](https://yadi.sk/i/d_TjxJEYx30I1A)
 
@@ -47,11 +54,31 @@
 
 [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/)
 
+[Алгоритмы и структуры данных ](https://vk.com/videos-101965347?section=album_1723)
+
+[Математика ](https://vk.com/wall-101965347_199008?hash=8240fa59ffe08ef07c)
+
+[ИНТЕГРАЛЫ с нуля](https://vk.com/wall-101965347_201661?hash=a28a2cd74587390b8e)
+
 [Видеолекции курса «Алгоритмы и структуры данных»](https://yandexdataschool.ru/edu-process/courses/algorithms)
 
 [Научим программировать за 3 месяца на Python](https://cloud.mail.ru/public/FpWV/DCvmgwQAG)
 
 [Курс Python](https://cloud.mail.ru/public/AhR9/6yxj8XRJA)
+
+[Курс объектно-ориентированного программирования. Теория и практика. Подготовка к собеседованию ](https://vk.com/wall-101965347_202722?hash=7b474816a3960783a3)
+
+[Создание простой 2D игры на Python 3](https://vk.com/wall-101965347_200383?hash=e5035b72c6ca484af4)
+
+[Создаём RPG на Unity](https://vk.com/videos-101965347?section=album_2892)
+
+[Создание приложения на Python + Kivy](https://vk.com/wall-142410745_1268)
+
+[Создание игры змейка на Python](https://vk.com/wall-101965347_202503?hash=b3de3429ea528bc480)
+
+[Специалист C#](https://yadi.sk/d/7GmVxvwZ3M4o8i)
+
+[Создание несложных игр на языке C# ](https://vk.com/wall-101965347_205813?hash=ec44d1581e2af68844)
 
 [Тестирование ПО](https://cloud.mail.ru/public/N3QS/MAs88FseW)
 
@@ -61,13 +88,27 @@
 
 [Тестирование веб- приложений 2.0](https://yadi.sk/d/wadjVgxYfzbyuw%20CANCEL)
 
+[Теория алгоритмов](https://vk.com/wall-101965347_194351?hash=4318c7f19f6b37bea2)
+
 [Udemy. SQL](https://yadi.sk/d/ieyMPhEqQ1Jn_Q%20CANCEL)
 
 [Видеокурсы для Frontend и Backend разработчиков. PS: И не только.](https://coursehunters.net/)
 
+[ Клиент-серверная игра на Python](https://cloud.mail.ru/public/KpZT/XRXEmsaQY)
+
+[Python](https://drive.google.com/file/d/1aHBV8tO3BlpHuOzaG7yEqj533DowKphr/view)
+
+[Курс: написание 2d игры на языке Python при помощи Pygame. Часть 1: ](https://vk.com/wall-101965347_206823?hash=10ed1c0beb44b729ed)
+
+[Python 3 для начинающих](https://cloud.mail.ru/public/gfK8/NzoVcomd4)
+
+[Основы программирования на Python3](https://cloud.mail.ru/public/3xoX/n5EnLp6X7)
+
 [Программирование на Python — курс для желающих узнать о нём больше или изучить ещё один язык программирования](https://habr.com/ru/company/compscicenter/blog/280426/)
 
 [Школа Яндекса](https://github.com/yandexdataschool/Practical_DL)
+
+[Подборка лучших видео по созданию приложений на Python](https://proglib.io/p/python-apps-videos/)
 
 [Разработчик full-stack на Python](https://drive.google.com/drive/folders/18lJQX9CX0pQyaktlQ4pYqhOsZJSRTufR)
 
@@ -102,6 +143,14 @@
 
 [Основы SQL](https://www.youtube.com/playlist?list=PLY4rE9dstrJwFmPYd03vZU90-TvXEpVzD)
 
+[Злокодинг с Python](https://vk.com/wall-101965347_142120?hash=439006b2adc27a666a)
+
+[Python](https://www.youtube.com/playlist?list=PLd-kTafWJCJMykWv8NdSS7gkPeq3olUVd)
+
+[Программирование Игр ](https://vk.com/wall-101965347_187328?hash=18d75738509da168f2)
+
+[Русскоязычный курс по алгоритмам и структурам данных. Must-have для каждого программиста. ](https://vk.com/wall-101965347_187206?hash=ae4786a6680d5cc665)
+
 
 
 <h2>Книги</h2>
@@ -110,9 +159,23 @@
 ![bibing](https://proglib.io/wp-content/uploads/2016/11/logo3_kvadrat-300x267.png)
 
 
+[Учебные материалы ВМК МГУ](https://docs.google.com/spreadsheets/d/1jPWpbivxCf3xRv-jAueWEF-XmPo1I3kLS2o6UyDBDMU/edit#gid=496336781)
+
 [Сборник](https://cloud.mail.ru/public/4U1E/Wryq337jV)
 
 [Сборник 2](https://cloud.mail.ru/public/LjzA/DUBQq1pVB/)
+
+[Сборник 3](https://mega.nz/#F!JdwylRxT!jvmVQ9Qnqcoz5eHLhg5U_g)
+
+[A Byte of Python](http://wombat.org.ua/AByteOfPython/AByteofPythonRussian-2.01.pdf)
+
+[Бхаргава А. - Грокаем Алгоритмы. Иллюстрированное пособие для программистов и любопытствущих](https://github.com/mduisenov/GrokkingAlgorithms/blob/master/%D0%91%D1%85%D0%B0%D1%80%D0%B3%D0%B0%D0%B2%D0%B0%20%D0%90.%20-%20%D0%93%D1%80%D0%BE%D0%BA%D0%B0%D0%B5%D0%BC%20%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B.%20%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2%20%D0%B8%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%BF%D1%8B%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%89%D0%B8%D1%85%20-%202017.PDF)
+
+[Программирование на C# для начинающих. Основные сведения ](https://vk.com/doc7608079_488139017?hash=17112a8f178b5501b0&dl=0dbb6f821aab1dd33e)
+
+[Problem Solving with Algorithms and Data Structures](http://aliev.me/runestone/)
+
+[10 мобильных приложений, которые научат вас программировать](https://techrocks.ru/2018/02/16/mobile-apps-for-code-learning/)
 
 [Программирование на Python 3. Подробное руководство.](https://github.com/CerberusIncorporated/study/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/Summerfield-Programming_in_Python_3.RUS%40bzd_channel.djvu)
 
@@ -132,6 +195,12 @@
 
 [Habr](https://habr.com/ru/)
 
+[Coursera[(coursera.org)
+
+[Stepik](stepik.org)
+
+[Проект Эйлера](http://euler.jakumo.org/)
+
 [Geekbrains](https://geekbrains.ru)
 
 [Nuance of Programming](https://nuancesprog.ru)
@@ -146,6 +215,11 @@
 
 [Медиатека - доклады](http://0x1.tv/)
 
+[C# 1](https://metanit.com/sharp/tutorial/
+)
+[C# 2](https://metanit.com/sharp/patterns/)
+
+[C# 3](https://professorweb.ru/my/csharp/charp_theory/level1/index.php)
 
 
 <h2>Статьи</h2>
@@ -161,6 +235,34 @@
 
 [7 принципов, которые нужно знать начинающему программисту](https://telegra.ph/7-principov-kotorye-nuzhno-znat-nachinayushchemu-programmistu-12-22)
 
+[python-codes.-part-1](https://github.com/sashnat/python-codes.-part-1)
+
+[Подборка Python библиотек для работы с данными](https://vk.com/@itcookies-podborka-python-bibl-dlya-raboty-s-dannymi)
+
+[Изучаем климат городов России с помощью Python](https://vk.com/@itcookies-izuchaem-klimat-gorodov-rossii-s-pomoschu-python)
+
+[Python. Решение задач](https://pythoner.name/tasks)
+
+[Путь к мастерству: создаём блокировщик веб-сайтов на Python](https://proglib.io/p/python-web-block/)
+
+[Путь к мастерству: создаём веб-карту на Python](https://proglib.io/p/python-web-map/)
+
+[Путь к мастерству: создаём приложение-словарь на Python](https://proglib.io/p/python-dictionary-app/)
+
+[Какую музыку вы слушаете? Жанровая классификация на Python](https://proglib.io/p/python-music-classifier/)
+
+[Дайджест: 300 ссылок на обучающие ресурсы по программированию](https://proglib.io/p/300-programming-urls/)
+
+[Как быстро подготовиться к вопросам по алгоритмам на IT-собеседовании — отвечают эксперты](https://tproger.ru/experts/getting-prepared-to-algorithms-interview/)
+
+[Игра на голом HTML / CSS](https://habr.com/ru/post/267701/)
+
+[22 вопроса работодателю на собеседовании на позицию «Middle Python-разработчик»](https://habr.com/ru/post/428283/)
+
+[Пишем простой Http сервер на C#](https://vk.com/wall-16108331_137464?hash=81d886a8460b48fb89)
+
+[ Flexbox Froggy](http://flexboxfroggy.com/#ru)
+
 [Переменные и типы данных в C++](https://telegra.ph/Peremennye-i-tipy-dannyh-v-C-03-26)
 
 [Пакуем Python в EXE](https://telegra.ph/Pakuem-Python-v-EXE-09-06)
@@ -172,6 +274,8 @@
 [Вытягиваем Metadata из картинок с помощью Python](https://telegra.ph/Vytyagivaem-Metadata-iz-kartinok-s-pomoshchyu-Python-11-20)
 
 [8 бесплатных онлайн-курсов по программированию от Университета ИТМО](https://techrocks.ru/2019/03/06/8-free-programming-online-courses/)
+
+[Data Science за 3 месяца: эффективный учебный план](https://proglib.io/p/ds-in-3months/)
 
 [5 лучших IDE с открытым исходным кодом для Python-разработчиков](https://techrocks.ru/2019/03/14/5-best-open-source-ides-for-python/)
 
@@ -248,3 +352,7 @@
 [Пишем малварь на Python](https://telegra.ph/Pishem-malvar-na-Python-04-08)
 
 [Python Пишем простую программу для шифровния](https://telegra.ph/Python-Pishem-prostuyu-programmu-dlya-shifrovniya-12-24)
+
+[Ответы на Coursera Python](https://github.com/johanga/python-coursera-mrg)
+
+[Ответы на Coursera Python 2](https://github.com/Yorko/python_intro)
