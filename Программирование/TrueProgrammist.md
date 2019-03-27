@@ -49,7 +49,7 @@
 
 [Видеолекции курса «Алгоритмы и структуры данных»](https://yandexdataschool.ru/edu-process/courses/algorithms)
 
-[Научим программировать за 3 месяца на Python[(https://cloud.mail.ru/public/FpWV/DCvmgwQAG)
+[Научим программировать за 3 месяца на Python](https://cloud.mail.ru/public/FpWV/DCvmgwQAG)
 
 [Курс Python](https://cloud.mail.ru/public/AhR9/6yxj8XRJA)
 
@@ -75,7 +75,7 @@
 
 
 
-<h2?Youtube</h2>
+<h2>Youtube</h2>
 
 ![ying](https://i.ytimg.com/vi/i5R3wTHCBJE/maxresdefault.jpg)
 
