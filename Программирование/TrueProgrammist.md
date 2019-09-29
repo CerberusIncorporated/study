@@ -235,6 +235,8 @@
 
 [7 принципов, которые нужно знать начинающему программисту](https://telegra.ph/7-principov-kotorye-nuzhno-znat-nachinayushchemu-programmistu-12-22)
 
+[10-минутная дорожная карта для того, чтобы стать Junior Full Stack Web Developer](https://telegra.ph/10-minutnaya-dorozhnaya-karta-dlya-togo-chtoby-stat-Junior-Full-Stack-Web-Developer-04-14)
+
 [python-codes.-part-1](https://github.com/sashnat/python-codes.-part-1)
 
 [Подборка Python библиотек для работы с данными](https://vk.com/@itcookies-podborka-python-bibl-dlya-raboty-s-dannymi)
@@ -348,6 +350,8 @@
 [22 самых распространенных вопроса на собеседованиях на должность веб-разработчика](https://telegra.ph/22-samyh-rasprostranennyh-voprosa-na-sobesedovaniyah-na-dolzhnost-veb-razrabotchika-04-15)
 
 [46 мифов о программировании](https://telegra.ph/46-mifov-o-programmirovanii-03-29)
+
+[Простой реверсинг и защита .NET приложений.](https://telegra.ph/Prostoj-reversing-i-zashchita-NET-prilozhenij-04-24-2)
 
 [Пишем малварь на Python](https://telegra.ph/Pishem-malvar-na-Python-04-08)
 
