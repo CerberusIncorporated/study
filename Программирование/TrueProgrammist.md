@@ -16,6 +16,8 @@
 
 ![cimg](https://habrastorage.org/files/e0d/c05/81a/e0dc0581a9e244cb8d12e2f9958c219e.png)
 
+[Computer science](https://yadi.sk/d/wjGK060Fb41VnQ)
+
 [Математика и Python для анализа данных](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/1-mathematics-and-python)
 
 [Машинное обучение](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie#%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0-ml-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0)
